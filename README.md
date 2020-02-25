@@ -1,5 +1,7 @@
 # OpenTelemetry Ruby
 
+Derek
+
 [![Gitter chat][gitter-image]][gitter-url]
 [![CircleCI][ci-image]][ci-url]
 [![Apache License][license-image]][license-image]
